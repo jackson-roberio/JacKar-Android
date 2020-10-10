@@ -14,6 +14,8 @@ Jackson Roberio S. dos Santos
 
 [@StackOverFlow](https://pt.stackoverflow.com/users/161243/jackson-roberio)
 
+[Ver também a lista de colaboradores](#cr%C3%A9ditos-checkered_flag)
+
 
 ## Instruções
 
@@ -83,5 +85,5 @@ Adotei o [SemVer](https://semver.org/) para versionamento do jogo. Para avaliar 
 
 ``` Colaboradores ```
 
-**Desenvolvedores, peço que enviem as modificações com o readme atualizado, com as suas informações e os créditos que precisarei colocar no app que será publicado na google play.** 
+[Everton Rodrigues Rezende](https://github.com/everton4292)
 
