@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JacKar</string>
+
+    <string name="app_descricao">
+        JacKar é um projeto desenvolvido por Jackson Roberio Silva dos Santos, na plataforma Construct 3 free, a qual usa componentes livres para uso (asserts).
+        Um jogo de corrida, divertido, onde o jogador tem que despistar dos obstáculos na pista (os galhos das árvores) sem que seu carro colida no canteiro (árvores laterais)
+    </string>
+</resources>
