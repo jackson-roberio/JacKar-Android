@@ -26,6 +26,15 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".CreditsActivity"
+            android:parentActivityName=".MainMenuActivity"
+            android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainMenuActivity"/>
+
+        </activity>
+
     </application>
 
 </manifest>

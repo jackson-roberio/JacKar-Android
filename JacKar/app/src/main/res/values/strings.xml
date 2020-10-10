@@ -8,4 +8,16 @@
     <string name="title">Title</string>
     <string name="jogar">JOGAR</string>
     <string name="cr_ditos">CRÉDITOS</string>
+    <string name="jackson_roberio">Jackson Roberio</string>
+    <string name="desenvolvedor">Desenvolvedor:</string>
+    <string name="contribuidores">Contribuidores:</string>
+    <string name="everton_resende">Everton Resende</string>
+    <string name="https_www_flaticon_com">https://www.flaticon.com/</string>
+    <string name="design">Design:</string>
+    <string name="audio">Audio:</string>
+    <string name="https_freesoung_org">https://freesoung.org/</string>
+    <string name="jackartitlecredits">JackarTitleCredits</string>
+    <string name="jackar_para_android">JacKar para Android</string>
+    <string name="todos_os_direitos_reservados">Todos os direitos reservados, 2020</string>
+    <string name="cr_ditos_tela">Créditos</string>
 </resources>
