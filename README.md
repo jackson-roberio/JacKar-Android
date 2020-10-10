@@ -14,6 +14,17 @@ Jackson Roberio S. dos Santos
 
 [@StackOverFlow](https://pt.stackoverflow.com/users/161243/jackson-roberio)
 
+
+## Instruções
+
+### Importação para o seu Android Studio
+
+O projeto do Android Studio está na pasta JacKar, logo, recomenda-se o clone do projeto via *Git Bash* e após isso a importação manual para a IDE do Android Studio da pasta JacKar (**e não JacKar-Android**), para que o mesmo reconheça toda a estrutura do projeto.
+
+<img src="material-de-apoio/tutorial/local-fonte-android-studio.JPG" height="300" />
+
+
+
 ## Versões :pencil:
 
 Adotei o [SemVer](https://semver.org/) para versionamento do jogo. Para avaliar as versões, veja [releases do meu repositório](https://github.com/jackson-roberio/JacKar/releases) (obs. alguns versões podem não exercutar corretamente, devido a depreciação de alguns componentes da própria IDE).
