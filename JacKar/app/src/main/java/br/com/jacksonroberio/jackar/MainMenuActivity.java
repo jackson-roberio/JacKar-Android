@@ -17,11 +17,19 @@ public class MainMenuActivity extends AppCompatActivity {
         Button creditsButton = findViewById(R.id.creditsButton);
 
         final Intent playIntent = new Intent(MainMenuActivity.this, JacKar.class);
+        final Intent creditsIntent = new Intent(MainMenuActivity.this, CreditsActivity.class);
 
         playButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 v.getContext().startActivity(playIntent);
+            }
+        });
+
+        creditsButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                v.getContext().startActivity(creditsIntent);
             }
         });
     }
