@@ -18,6 +18,9 @@
     <string name="https_freesoung_org">https://freesoung.org/</string>
     <string name="jackartitlecredits">JackarTitleCredits</string>
     <string name="jackar_para_android">JacKar para Android</string>
-    <string name="todos_os_direitos_reservados">Todos os direitos reservados, 2020</string>
+    <string name="todos_os_direitos_reservados">Todos os direitos reservados, 2022</string>
     <string name="cr_ditos_tela">Créditos</string>
+    <string name="politica_de_privacidade">Política de Privacidade</string>
+
+
 </resources>
