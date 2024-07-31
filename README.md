@@ -47,6 +47,10 @@ Adotei o [SemVer](https://semver.org/) para versionamento do jogo. Para avaliar 
 
 * 1.0.0
     * Versão inicial do projeto baseada na versão 2.1.0, contava com uma única WebView a qual foi negada a publicação pela Google Play por este motivo.
+* 3.0.0 (VersionCode 6)
+    * Inserido link que envia para política de privacidade.
+* 3.1.0 (VersionCode 7)
+    * Alterado a versão do SDK de 29 para 34.
 
 
 ## Publicações (ClickPlay) :video_game:
