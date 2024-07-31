@@ -4,6 +4,13 @@
 *.ap_
 *.aab
 
+# Arquivos privados utilitários
+/sem_git
+/sem_git/*
+sem_git
+*sem_git
+sem_git*
+
 # Files for the ART/Dalvik VM
 *.dex
 
