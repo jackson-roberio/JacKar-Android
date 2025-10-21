@@ -1,4 +1,4 @@
-# JacKar-Android :car:
+<img width="1600" height="815" alt="image" src="https://github.com/user-attachments/assets/465ee9b1-1764-4d65-869d-e3f3c89cf561" /># JacKar-Android :car:
 
  Jogo de corrida de carro desenvolvido no Construct 3 para plataforma mobile, neste projeto e linkado uma webview dentro da estrutura Android para publicação para Google Play.
  
@@ -93,3 +93,5 @@ Adotei o [SemVer](https://semver.org/) para versionamento do jogo. Para avaliar 
  Colaboradores 
 
 [Everton Rodrigues Rezende](https://github.com/everton4292)
+[Gabriel Vinícius Da Silva](https://github.com/gabriel-vinicius-silva)
+
