@@ -43,7 +43,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textViewJac" />
 
     <TextView
-        android:id="@+id/textViewContriName"
+        android:id="@+id/textViewContriName1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -52,6 +52,16 @@
         android:textSize="28sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textViewContri" />
+    <TextView
+        android:id="@+id/textViewContriName2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="@string/gabriel_vinicius"
+        android:textColor="@color/colorGrey"
+        android:textSize="28sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewContriName1" />
 
     <TextView
         android:id="@+id/textViewDesign"
@@ -62,7 +72,7 @@
         android:textColor="@color/colorGrey"
         android:textSize="34sp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textViewContriName" />
+        app:layout_constraintTop_toBottomOf="@+id/textViewContriName2" />
 
     <TextView
         android:id="@+id/textViewSiteDesign"
@@ -103,10 +113,9 @@
         android:id="@+id/imageView2"
         android:layout_width="278dp"
         android:layout_height="104dp"
-        android:layout_marginTop="16dp"
         android:contentDescription="@string/jackartitlecredits"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintHorizontal_bias="0.654"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textViewSiteAudio"
         app:srcCompat="@drawable/img_title_palavra_jac_kar" />
