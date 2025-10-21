@@ -1,4 +1,4 @@
-<img width="1600" height="815" alt="image" src="https://github.com/user-attachments/assets/465ee9b1-1764-4d65-869d-e3f3c89cf561" /># JacKar-Android :car:
+# JacKar-Android :car:
 
  Jogo de corrida de carro desenvolvido no Construct 3 para plataforma mobile, neste projeto e linkado uma webview dentro da estrutura Android para publicação para Google Play.
  
