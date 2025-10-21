@@ -21,7 +21,7 @@ Jackson Roberio S. dos Santos
 
 ### Importação para o seu Android Studio
 
-O projeto do Android Studio está na pasta JacKar, logo, recomenda-se o clone do projeto via *Git Bash* e após isso a importação manual para a IDE do Android Studio da pasta JacKar (**e não JacKar-Android**), para que o mesmo reconheça toda a estrutura do projeto.
+O projeto do Android Studio está na pasta JacKar, logo, recomenda-se o clone do projeto via Git Bash e após isso a importação manual para a IDE do Android Studio da pasta JacKar (*e não JacKar-Android*), para que o mesmo reconheça toda a estrutura do projeto.
 
 <img src="material-de-apoio/tutorial/local-fonte-android-studio.JPG" height="300" />
 
@@ -51,7 +51,10 @@ Adotei o [SemVer](https://semver.org/) para versionamento do jogo. Para avaliar 
     * Inserido link que envia para política de privacidade.
 * 3.1.0 (VersionCode 7)
     * Alterado a versão do SDK de 29 para 34.
-
+* 3.2.1 (VersionCode 9) - 20/10/2025
+    * Alterado a versão do SDK recomendado de 34 para 35.
+    * Alterado a versão do SDK mínimo de 34 para 33.
+    * Atualizado diveras librarys para se adaptar ao uso do SDK 35.
 
 ## Publicações (ClickPlay) :video_game:
 
@@ -59,35 +62,36 @@ Adotei o [SemVer](https://semver.org/) para versionamento do jogo. Para avaliar 
 
 [Public Web](https://jacksonroberio.com.br/jackar/)
 
-**_Obs. algunas publicações podem está com uma versão desatualizada do jogo_**
+*Obs. algunas publicações podem está com uma versão desatualizada do jogo*
 
 
 ## Telas :performing_arts:
 
-```
+
    Tela Principal (primeira tela)
-```
+
 
 <img src="material-de-apoio/captura-de-tela/tela_inicial.png" height="300" />
 
-```
+
    Tela Game Player (fase única)
-```
+
 
 <img src="material-de-apoio/captura-de-tela/tela_jogando.png" height="300" />
 
 
 ## Créditos :checkered_flag:
 
-``` Design ```
+ Design 
 
 * [Flaticon](https://www.flaticon.com)
 
-``` Áudio ```
+ Áudio 
 
 * [Freesound](https://freesound.org)
 
-``` Colaboradores ```
+ Colaboradores 
 
 [Everton Rodrigues Rezende](https://github.com/everton4292)
+[Gabriel Vinícius Da Silva](https://github.com/gabriel-vinicius-silva)
 
